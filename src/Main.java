@@ -14,6 +14,11 @@ public class Main {
      X.size="123cc";
      X.weight="643kg";
 
+     Color color = new Color();
+     color.colorLights="True";
+     color.colorTyre="false";
+     color.colorWindows="True";
+
      
 
 
