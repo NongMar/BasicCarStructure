@@ -9,7 +9,12 @@ public class Main {
        audi.model="A3";
        audi.power="5000cc";
 
+     Engine X=new Engine();
+     X.cylinders="8";
+     X.size="123cc";
+     X.weight="643kg";
 
+     
 
 
     }
